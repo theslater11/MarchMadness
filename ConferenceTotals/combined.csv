@@ -30,7 +30,7 @@ Big South Conference,2000-2001,8,100,130,0.435,-12.55,-7.97,0,1,0,Radford,Winthr
 Trans America Athletic Conference,2000-2001,10,142,155,0.478,-7.98,-5.97,0,1,0,Georgia State,Georgia State
 Southland Conference,2000-2001,11,148,167,0.470,-11.74,-8.54,0,1,0,McNeese State,Northwestern State
 Mid-Eastern Athletic Conference,2000-2001,11,139,182,0.433,-14.63,-9.83,0,1,0,Hampton South Carolina State,Hampton
-Independent,2000-2001,5,56,84,0.400,-11.49,-4.96,0,0,0,,Conference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Independent,2000-2001,5,56,84,0.400,-11.49,-4.96,0,0,0,,
 Big Ten Conference,2001-2002,11,197,153,0.563,10.93,8.37,1,5,1,Illinois Indiana Ohio State Wisconsin,Ohio State
 Southeastern Conference,2001-2002,12,239,148,0.618,13.72,8.64,1,6,0,Alabama (West),Mississippi State
 Pacific-10 Conference,2001-2002,10,179,131,0.577,11.15,8.67,1,6,0,Oregon,Arizona
@@ -62,7 +62,7 @@ Southwest Athletic Conference,2001-2002,10,119,171,0.410,-18.07,-12.14,0,1,0,Alc
 Big South Conference,2001-2002,8,96,140,0.407,-12.63,-6.83,0,1,0,UNC Asheville Winthrop,Winthrop
 Mid-Eastern Athletic Conference,2001-2002,11,137,189,0.420,-12.55,-8.20,0,1,0,Hampton,Hampton
 America East Conference,2001-2002,9,110,153,0.418,-12.26,-8.70,0,1,0,Boston University Vermont,Boston University
-Mid-Continent Conference,2001-2002,8,117,119,0.496,-2.79,-1.40,0,1,0,Valparaiso,ValparaisoConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Mid-Continent Conference,2001-2002,8,117,119,0.496,-2.79,-1.40,0,1,0,Valparaiso,Valparaiso
 Pacific-10 Conference,2002-2003,10,170,132,0.563,9.82,7.72,1,5,0,Arizona,Oregon
 Big Ten Conference,2002-2003,11,200,146,0.578,10.68,7.66,1,5,0,Wisconsin,Illinois
 Southeastern Conference,2002-2003,12,220,145,0.603,12.95,8.58,0,6,0,Kentucky (East),Kentucky
@@ -94,7 +94,7 @@ Big South Conference,2002-2003,8,105,126,0.455,-13.22,-8.84,0,1,0,Winthrop,UNC A
 Mid-Continent Conference,2002-2003,8,105,131,0.445,-6.03,-3.13,0,1,0,Valparaiso,IU Indy
 America East Conference,2002-2003,9,126,139,0.475,-6.77,-4.99,0,1,0,Boston University,Vermont
 Southwest Athletic Conference,2002-2003,10,121,172,0.413,-13.82,-9.34,0,1,0,Prairie View Texas Southern,Texas Southern
-Mid-Eastern Athletic Conference,2002-2003,11,130,188,0.409,-14.59,-10.32,0,1,0,South Carolina State,South Carolina StateConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Mid-Eastern Athletic Conference,2002-2003,11,130,188,0.409,-14.59,-10.32,0,1,0,South Carolina State,South Carolina State
 West Coast Conference,2003-2004,8,125,118,0.514,1.80,2.14,1,1,0,Gonzaga,Gonzaga
 Big Ten Conference,2003-2004,11,188,147,0.561,8.22,6.43,1,3,0,Illinois,Wisconsin
 Pacific-10 Conference,2003-2004,10,159,133,0.545,7.09,5.92,1,3,0,Stanford,Stanford
@@ -126,7 +126,7 @@ Independent,2003-2004,4,36,74,0.327,-11.89,-2.55,0,0,0,,
 Southland Conference,2003-2004,11,154,165,0.483,-9.38,-6.37,0,1,0,Southeastern Louisiana UT Arlington UTSA,UTSA
 America East Conference,2003-2004,10,142,153,0.481,-8.11,-6.67,0,1,0,Boston University,Vermont
 Southwest Athletic Conference,2003-2004,10,119,169,0.413,-15.90,-11.27,0,1,0,Alabama State Mississippi Valley State,Alabama State
-Mid-Eastern Athletic Conference,2003-2004,11,125,196,0.389,-13.74,-9.43,0,1,0,Coppin State South Carolina State,Florida A&MConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Mid-Eastern Athletic Conference,2003-2004,11,125,196,0.389,-13.74,-9.43,0,1,0,Coppin State South Carolina State,Florida A&M
 Big Ten Conference,2004-2005,11,207,145,0.588,11.36,8.27,1,5,2,Illinois,Illinois
 Pacific-10 Conference,2004-2005,10,181,128,0.586,8.80,6.71,1,4,0,Arizona,Washington
 Southeastern Conference,2004-2005,12,227,153,0.597,11.06,6.82,1,5,0,Kentucky (East),Florida
@@ -158,7 +158,7 @@ Independent,2004-2005,4,39,74,0.345,-13.01,-4.20,0,0,0,,
 Southwest Athletic Conference,2004-2005,10,119,169,0.413,-17.20,-11.81,0,1,0,Alabama A&M,Alabama A&M
 Big West Conference,2004-2005,10,149,150,0.498,-1.77,-0.79,0,2,0,Pacific,Utah State
 Mid-Eastern Athletic Conference,2004-2005,11,136,189,0.418,-14.13,-9.64,0,1,0,Delaware State,Delaware State
-Mid-Continent Conference,2004-2005,9,121,143,0.458,-4.88,-1.66,0,1,0,Oral Roberts,OaklandConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Mid-Continent Conference,2004-2005,9,121,143,0.458,-4.88,-1.66,0,1,0,Oral Roberts,Oakland
 Big Ten Conference,2005-2006,11,213,133,0.616,10.32,6.66,1,6,0,Ohio State,Iowa
 Pacific-10 Conference,2005-2006,10,181,135,0.573,10.43,7.55,0,4,1,UCLA,UCLA
 Atlantic Coast Conference,2005-2006,12,238,147,0.618,11.53,6.40,1,4,0,Duke,Duke
@@ -190,7 +190,7 @@ Southwest Athletic Conference,2005-2006,10,117,175,0.401,-14.16,-8.85,0,1,0,Sout
 Independent,2005-2006,4,39,78,0.333,-14.84,-2.48,0,0,0,,
 Ivy League,2005-2006,8,100,121,0.452,-7.23,-5.08,0,1,0,Pennsylvania,
 Mid-Eastern Athletic Conference,2005-2006,11,129,207,0.384,-14.58,-8.87,0,1,0,Delaware State,Hampton
-Mid-Continent Conference,2005-2006,9,114,149,0.433,-7.02,-3.69,0,1,0,IU Indy Oral Roberts,Oral RobertsConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Mid-Continent Conference,2005-2006,9,114,149,0.433,-7.02,-3.69,0,1,0,IU Indy Oral Roberts,Oral Roberts
 Pacific-10 Conference,2006-2007,10,202,131,0.607,11.26,7.92,0,6,1,UCLA,Oregon
 Mountain West Conference,2006-2007,9,176,117,0.601,6.30,3.76,0,2,0,Brigham Young,Nevada-Las Vegas
 Horizon League,2006-2007,9,149,140,0.516,0.30,1.16,1,2,0,Butler Wright State,Wright State
@@ -222,7 +222,7 @@ Sun Belt Conference,2006-2007,13,197,209,0.485,-8.04,-5.18,0,1,0,South Alabama (
 Colonial Athletic Association,2006-2007,12,188,192,0.495,-1.30,-0.47,0,2,0,Virginia Commonwealth,Virginia Commonwealth
 Big South Conference,2006-2007,8,122,129,0.486,-6.24,-3.76,0,1,0,Winthrop,Winthrop
 Mid-Eastern Athletic Conference,2006-2007,11,143,204,0.412,-14.23,-8.65,0,1,0,Delaware State,Florida A&M
-Southwest Athletic Conference,2006-2007,10,126,182,0.409,-18.76,-11.43,0,1,0,Jackson State Mississippi Valley State,Jackson StateConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2006-2007,10,126,182,0.409,-18.76,-11.43,0,1,0,Jackson State Mississippi Valley State,Jackson State
 West Coast Conference,2007-2008,8,122,135,0.475,-1.47,0.09,1,3,0,Gonzaga,San Diego
 Pacific-10 Conference,2007-2008,10,207,133,0.609,11.70,7.75,0,6,1,UCLA,UCLA
 Horizon League,2007-2008,10,169,150,0.530,0.68,1.38,1,1,0,Butler,Butler
@@ -254,7 +254,7 @@ Summit League,2007-2008,8,124,127,0.494,-3.65,-1.04,0,1,0,Oral Roberts,Oral Robe
 Metro Atlantic Athletic Conference,2007-2008,10,152,164,0.481,-4.24,-3.16,0,1,0,Rider Siena,Siena
 Big South Conference,2007-2008,8,125,122,0.506,-7.64,-4.85,0,1,0,UNC Asheville Winthrop,Winthrop
 Mid-Eastern Athletic Conference,2007-2008,11,150,203,0.425,-14.32,-8.27,0,1,0,Morgan State,Coppin State
-Southwest Athletic Conference,2007-2008,10,118,189,0.384,-17.80,-11.23,0,1,0,Alabama State Mississippi Valley State,Mississippi Valley StateConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2007-2008,10,118,189,0.384,-17.80,-11.23,0,1,0,Alabama State Mississippi Valley State,Mississippi Valley State
 West Coast Conference,2008-2009,8,130,129,0.502,-0.31,1.37,1,1,0,Gonzaga,Gonzaga
 Big Ten Conference,2008-2009,11,232,143,0.619,10.85,7.76,0,7,1,Michigan State,Purdue
 Big 12 Conference,2008-2009,12,260,153,0.630,11.41,6.66,0,6,0,Kansas,Missouri
@@ -286,7 +286,7 @@ Northeast Conference,2008-2009,11,151,189,0.444,-9.47,-6.76,0,1,0,Robert Morris,
 Ivy League,2008-2009,8,101,125,0.447,-7.92,-5.46,0,1,0,Cornell,
 Mid-Eastern Athletic Conference,2008-2009,11,148,202,0.423,-12.97,-7.42,0,1,0,Morgan State,Morgan State
 Big South Conference,2008-2009,9,136,145,0.484,-9.25,-5.49,0,1,0,Radford,Radford
-Southwest Athletic Conference,2008-2009,10,112,199,0.360,-16.45,-9.49,0,1,0,Alabama State,Alabama StateConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2008-2009,10,112,199,0.360,-16.45,-9.49,0,1,0,Alabama State,Alabama State
 Big 12 Conference,2009-2010,12,260,146,0.640,13.62,8.00,1,7,0,Kansas,Kansas
 Horizon League,2009-2010,10,176,152,0.537,0.29,0.93,1,1,1,Butler,Butler
 West Coast Conference,2009-2010,8,135,124,0.521,1.25,2.10,1,2,0,Gonzaga,Saint Mary's (CA)
@@ -319,7 +319,7 @@ Northeast Conference,2009-2010,11,152,190,0.444,-11.25,-7.91,0,1,0,Quinnipiac Ro
 Independent,2009-2010,2,23,34,0.404,-13.80,-4.75,0,0,0,,
 Summit League,2009-2010,10,152,160,0.487,-8.42,-4.68,0,1,0,Oakland,Oakland
 Southwest Athletic Conference,2009-2010,10,120,188,0.390,-18.01,-11.01,0,1,0,Jackson State,Arkansas-Pine Bluff
-Great West Conference,2009-2010,4,37,89,0.294,-18.72,-7.39,0,0,0,South Dakota,South DakotaConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Great West Conference,2009-2010,4,37,89,0.294,-18.72,-7.39,0,0,0,South Dakota,South Dakota
 Big Ten Conference,2010-2011,11,224,146,0.605,14.63,9.56,0,7,0,Ohio State,Ohio State
 Pacific-10 Conference,2010-2011,10,195,146,0.572,10.07,7.19,1,4,0,Arizona,Washington
 Big East Conference,2010-2011,16,331,210,0.612,13.27,8.59,0,11,1,Pittsburgh,Connecticut
@@ -352,7 +352,7 @@ Northeast Conference,2010-2011,12,168,200,0.457,-6.72,-4.68,0,1,0,Long Island Un
 Southwest Athletic Conference,2010-2011,10,116,197,0.371,-16.98,-9.41,0,1,0,Texas Southern,Alabama State
 Southland Conference,2010-2011,12,181,186,0.493,-7.76,-5.22,0,1,0,McNeese State (East) Sam Houston (West) Texas State (West),UTSA
 Summit League,2010-2011,10,149,164,0.476,-4.81,-2.98,0,1,0,Oakland,Oakland
-Great West Conference,2010-2011,7,88,133,0.398,-15.02,-8.40,0,0,0,Utah Valley,North DakotaConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Great West Conference,2010-2011,7,88,133,0.398,-15.02,-8.40,0,0,0,Utah Valley,North Dakota
 Big 12 Conference,2011-2012,10,209,131,0.615,11.71,7.49,1,6,1,Kansas,Missouri
 Southeastern Conference,2011-2012,12,246,160,0.606,10.09,6.24,0,4,1,Kentucky,Vanderbilt
 Big East Conference,2011-2012,16,334,217,0.606,10.66,6.81,0,9,1,Syracuse,Louisville
@@ -385,7 +385,7 @@ Metro Atlantic Athletic Conference,2011-2012,10,157,169,0.482,-4.10,-2.85,0,2,0,
 Southland Conference,2011-2012,12,180,197,0.477,-7.31,-4.47,0,1,0,Lamar (East) UT Arlington (West),Lamar
 Northeast Conference,2011-2012,12,167,207,0.447,-7.42,-4.99,0,1,0,Long Island University,Long Island University
 Great West Conference,2011-2012,6,77,112,0.407,-12.73,-5.90,0,0,0,Utah Valley,North Dakota
-Southwest Athletic Conference,2011-2012,10,118,195,0.377,-16.71,-9.40,0,1,0,Mississippi Valley State,Mississippi Valley StateConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2011-2012,10,118,195,0.377,-16.71,-9.40,0,1,0,Mississippi Valley State,Mississippi Valley State
 Pac-12 Conference,2012-2013,12,237,168,0.585,9.84,6.67,1,5,0,UCLA,Oregon
 Big 12 Conference,2012-2013,10,199,139,0.589,9.49,6.29,0,5,0,Kansas Kansas State,Kansas
 Big East Conference,2012-2013,15,316,191,0.623,11.83,7.30,0,8,2,Georgetown Louisville Marquette,Louisville
@@ -418,7 +418,7 @@ Southland Conference,2012-2013,10,145,170,0.460,-7.81,-4.52,0,1,0,Stephen F. Aus
 Atlantic Sun Conference,2012-2013,10,144,176,0.450,-6.84,-3.67,0,1,0,Mercer,Florida Gulf Coast
 Great West Conference,2012-2013,5,71,86,0.452,-12.03,-7.45,0,0,0,NJIT,Chicago State
 Ohio Valley Conference,2012-2013,12,188,187,0.501,-5.22,-3.53,0,1,0,Belmont (East) Murray State (West),Belmont
-Southwest Athletic Conference,2012-2013,10,118,192,0.381,-15.30,-8.90,0,1,0,Texas Southern,SouthernConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2012-2013,10,118,192,0.381,-15.30,-8.90,0,1,0,Texas Southern,Southern
 Pac-12 Conference,2013-2014,12,248,160,0.608,11.22,7.59,1,6,0,Arizona,UCLA
 Big 12 Conference,2013-2014,10,207,133,0.609,13.24,9.09,1,7,0,Kansas,Iowa State
 West Coast Conference,2013-2014,10,189,146,0.564,5.23,3.63,0,2,0,Gonzaga,Gonzaga
@@ -451,7 +451,7 @@ Southwest Athletic Conference,2013-2014,10,132,184,0.418,-14.47,-9.03,0,1,0,Sout
 Big South Conference,2013-2014,12,186,206,0.474,-9.84,-6.56,0,1,0,High Point (North) Coastal Carolina (South),Coastal Carolina
 Southern Conference,2013-2014,11,162,195,0.454,-10.38,-6.54,0,1,0,Davidson,Wofford
 Mid-Eastern Athletic Conference,2013-2014,13,167,246,0.404,-11.13,-6.53,0,1,0,North Carolina Central,North Carolina Central
-Southland Conference,2013-2014,14,206,226,0.477,-10.37,-6.20,0,1,0,Stephen F. Austin,Stephen F. AustinConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southland Conference,2013-2014,14,206,226,0.477,-10.37,-6.20,0,1,0,Stephen F. Austin,Stephen F. Austin
 Pac-12 Conference,2014-2015,12,242,166,0.593,9.74,6.59,1,4,0,Arizona,Arizona
 Big 12 Conference,2014-2015,10,209,128,0.620,14.05,9.03,1,7,0,Kansas,Iowa State
 Big East Conference,2014-2015,10,199,136,0.594,12.20,8.51,1,6,0,Villanova,Villanova
@@ -484,7 +484,7 @@ Big South Conference,2014-2015,11,181,179,0.503,-7.69,-5.41,0,1,0,Charleston Sou
 Ohio Valley Conference,2014-2015,12,190,192,0.497,-4.99,-3.44,0,1,0,Belmont (East) Eastern Kentucky (East) Murray State (West),Belmont
 Mid-Eastern Athletic Conference,2014-2015,13,171,251,0.405,-12.87,-7.36,0,1,0,North Carolina Central,Hampton
 Southwest Athletic Conference,2014-2015,10,120,198,0.377,-15.63,-8.87,0,1,0,Texas Southern,Texas Southern
-Southland Conference,2014-2015,13,196,207,0.486,-9.02,-5.70,0,1,0,Stephen F. Austin,Stephen F. AustinConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southland Conference,2014-2015,13,196,207,0.486,-9.02,-5.70,0,1,0,Stephen F. Austin,Stephen F. Austin
 Pac-12 Conference,2015-2016,12,241,160,0.601,11.85,8.52,1,7,0,Oregon,Oregon
 Big East Conference,2015-2016,10,206,134,0.606,11.63,7.92,0,5,1,Villanova,Seton Hall
 Big 12 Conference,2015-2016,10,213,129,0.623,15.01,10.12,1,7,1,Kansas,Kansas
@@ -516,7 +516,7 @@ Southwest Athletic Conference,2015-2016,10,130,194,0.401,-13.98,-8.48,0,1,0,Texa
 Southland Conference,2015-2016,13,186,221,0.457,-10.68,-6.56,0,1,0,Stephen F. Austin,Stephen F. Austin
 Patriot League,2015-2016,10,146,173,0.458,-8.55,-6.21,0,1,0,Bucknell,Holy Cross
 Mid-Eastern Athletic Conference,2015-2016,13,165,250,0.398,-14.26,-8.14,0,1,0,Hampton,Hampton
-Northeast Conference,2015-2016,10,133,182,0.422,-12.87,-8.79,0,1,0,Wagner,FDUConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Northeast Conference,2015-2016,10,133,182,0.422,-12.87,-8.79,0,1,0,Wagner,FDU
 Big 12 Conference,2016-2017,10,215,131,0.621,17.44,11.26,1,6,0,Kansas,Iowa State
 Pac-12 Conference,2016-2017,12,238,168,0.586,9.33,6.73,1,4,1,Arizona Oregon,Arizona
 Big East Conference,2016-2017,10,203,135,0.601,13.19,9.11,1,7,0,Villanova,Villanova
@@ -548,7 +548,7 @@ Big West Conference,2016-2017,9,126,160,0.441,-7.63,-3.78,0,1,0,UC Irvine,UC Dav
 Ohio Valley Conference,2016-2017,12,182,196,0.481,-5.19,-3.34,0,1,0,Belmont (East) Tennessee-Martin (West),Jacksonville State
 Southland Conference,2016-2017,13,202,209,0.491,-9.35,-5.82,0,1,0,New Orleans,New Orleans
 Mid-Eastern Athletic Conference,2016-2017,13,156,259,0.376,-16.34,-9.42,0,1,0,North Carolina Central,North Carolina Central
-Southwest Athletic Conference,2016-2017,10,123,199,0.382,-17.06,-10.16,0,1,0,Texas Southern,Texas SouthernConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2016-2017,10,123,199,0.382,-17.06,-10.16,0,1,0,Texas Southern,Texas Southern
 Big East Conference,2017-2018,10,213,128,0.625,14.22,9.28,0,6,1,Xavier,Villanova
 Pac-12 Conference,2017-2018,12,231,172,0.573,8.61,6.15,1,3,0,Arizona,Arizona
 Big 12 Conference,2017-2018,10,220,130,0.629,15.16,9.83,0,7,1,Kansas,Kansas
@@ -580,7 +580,7 @@ Big West Conference,2017-2018,9,139,148,0.484,-4.20,-1.68,0,1,0,UC Davis,Cal Sta
 Mid-Eastern Athletic Conference,2017-2018,13,162,265,0.379,-16.74,-9.52,0,1,0,Bethune-Cookman Hampton Savannah State,North Carolina Central
 Patriot League,2017-2018,10,145,169,0.462,-7.77,-5.83,0,1,0,Bucknell,Bucknell
 Northeast Conference,2017-2018,10,146,174,0.456,-9.84,-6.89,0,1,0,Wagner,Long Island University
-Southwest Athletic Conference,2017-2018,10,116,211,0.355,-15.97,-8.63,0,1,0,Grambling,Texas SouthernConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2017-2018,10,116,211,0.355,-15.97,-8.63,0,1,0,Grambling,Texas Southern
 Big 12 Conference,2018-2019,10,216,137,0.612,14.82,10.54,0,6,1,Kansas State Texas Tech,Iowa State
 American Athletic Conference,2018-2019,12,239,169,0.586,7.03,4.21,0,4,0,Houston,Cincinnati
 Southeastern Conference,2018-2019,14,283,197,0.590,12.73,9.29,0,7,1,Louisiana State,Auburn
@@ -612,7 +612,7 @@ Summit League,2018-2019,9,136,150,0.476,-5.49,-3.38,0,1,0,South Dakota State,Nor
 Mid-Eastern Athletic Conference,2018-2019,12,151,238,0.388,-16.00,-9.20,0,1,0,Norfolk State,North Carolina Central
 Big West Conference,2018-2019,9,142,153,0.481,-4.77,-2.74,0,1,0,UC Irvine,UC Irvine
 Northeast Conference,2018-2019,10,148,174,0.460,-10.81,-7.47,0,1,0,FDU Saint Francis (PA),FDU
-Southwest Athletic Conference,2018-2019,10,129,200,0.392,-14.78,-8.26,0,1,0,Prairie View,Prairie ViewConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2018-2019,10,129,200,0.392,-14.78,-8.26,0,1,0,Prairie View,Prairie View
 Big 12 Conference,2020-2021,10,165,116,0.587,11.74,8.94,1,7,1,Baylor,Texas
 Big Ten Conference,2020-2021,14,227,172,0.569,14.91,11.89,1,9,0,Michigan,Illinois
 Southeastern Conference,2020-2021,14,212,163,0.565,11.18,8.48,1,6,0,Alabama,Alabama
@@ -643,7 +643,7 @@ Mid-Eastern Athletic Conference,2020-2021,9,69,97,0.416,-14.55,-7.62,0,1,0,Coppi
 Mountain West Conference,2020-2021,11,152,131,0.537,-0.05,0.68,0,2,0,San Diego State,San Diego State
 Big West Conference,2020-2021,11,122,116,0.513,-3.43,-2.10,0,1,0,UC Santa Barbara,UC Santa Barbara
 Summit League,2020-2021,9,97,125,0.437,-5.98,-2.98,0,1,0,South Dakota State,Oral Roberts
-Southwest Athletic Conference,2020-2021,10,87,122,0.416,-17.68,-12.11,0,1,0,Prairie View,Texas SouthernConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southwest Athletic Conference,2020-2021,10,87,122,0.416,-17.68,-12.11,0,1,0,Prairie View,Texas Southern
 Pac-12 Conference,2021-2022,12,222,178,0.555,9.49,7.35,1,3,0,Arizona,Arizona
 Big 12 Conference,2021-2022,10,217,126,0.633,15.54,9.75,1,6,1,Baylor Kansas,Kansas
 Big Ten Conference,2021-2022,14,271,193,0.584,11.92,8.60,1,9,0,Illinois Wisconsin,Iowa
@@ -675,7 +675,7 @@ Big West Conference,2021-2022,11,155,158,0.495,-3.65,-2.45,0,1,0,Long Beach Stat
 Mid-Eastern Athletic Conference,2021-2022,8,106,131,0.447,-12.03,-7.67,0,1,0,Norfolk State,Norfolk State
 Southwest Athletic Conference,2021-2022,12,137,229,0.374,-12.03,-5.86,0,1,0,Alcorn State,Texas Southern
 Southland Conference,2021-2022,8,119,141,0.458,-10.58,-5.90,0,1,0,Nicholls State,Texas A&M-Corpus Christi
-Patriot League,2021-2022,10,146,174,0.456,-9.62,-7.19,0,1,0,Colgate,ColgateConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Patriot League,2021-2022,10,146,174,0.456,-9.62,-7.19,0,1,0,Colgate,Colgate
 Southeastern Conference,2022-2023,14,283,198,0.588,11.01,7.66,1,8,0,Alabama,Alabama
 Pac-12 Conference,2022-2023,12,221,186,0.543,10.46,8.01,1,4,0,UCLA,Arizona
 Big 12 Conference,2022-2023,10,217,129,0.627,15.63,10.20,1,7,0,Kansas,Texas
@@ -708,7 +708,7 @@ Ohio Valley Conference,2022-2023,10,159,169,0.485,-9.84,-6.98,0,1,0,Morehead Sta
 Northeast Conference,2022-2023,9,124,161,0.435,-13.96,-9.54,0,1,0,Merrimack,Merrimack
 America East Conference,2022-2023,9,140,142,0.496,-6.98,-5.46,0,1,0,Vermont,Vermont
 Mid-Eastern Athletic Conference,2022-2023,8,115,138,0.455,-10.01,-5.26,0,1,0,Howard,Howard
-Southland Conference,2022-2023,10,147,177,0.454,-11.24,-6.95,0,1,0,Texas A&M-Corpus Christi,Texas A&M-Corpus ChristiConference,Year,Schools,W,L,W-L%,SRS,SOS,AP,NCAA,FF,Regular Season Champ,Tournament Champ
+Southland Conference,2022-2023,10,147,177,0.454,-11.24,-6.95,0,1,0,Texas A&M-Corpus Christi,Texas A&M-Corpus Christi
 Pac-12 Conference,2023-2024,12,226,181,0.555,10.88,8.54,1,4,0,Arizona,Oregon
 Southeastern Conference,2023-2024,14,284,197,0.590,12.15,8.38,1,8,1,Tennessee,Auburn
 Big Ten Conference,2023-2024,14,284,199,0.588,12.98,9.15,1,6,1,Purdue,Illinois
